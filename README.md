@@ -2,10 +2,17 @@
 
 > Uma aplicação web simples, acolhedora e intuitiva desenvolvida para ajudar estudantes iniciantes a planejar, acompanhar e alcançar suas metas de aprendizagem sem complicação ou sobrecarga cognitiva.
 
+<br />
+
+<p align="center">
+  <img src="./public/assets/aistudio/Screenshot_1_82bd809a.png" alt="Preview da Interface do StudyFlow" width="100%" />
+</p>
+
 ---
 
 ## 📌 Sumário
 
+- [Visão Geral / Demonstração](#-visão-geral--demonstração)
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Problema que o Aplicativo Resolve](#-problema-que-o-aplicativo-resolve)
 - [Público-Alvo](#-público-alvo)
@@ -16,6 +23,18 @@
 - [Como Funciona a Persistência de Dados](#-como-funciona-a-persistência-de-dados)
 - [Critérios de Qualidade e Boas Práticas](#-critérios-de-qualidade-e-boas-práticas)
 - [Licença](#-licença)
+
+---
+
+## 📸 Visão Geral / Demonstração
+
+A interface do **StudyFlow** foi desenhada para oferecer uma experiência visual limpa e amigável:
+
+![Demonstração do StudyFlow](./public/assets/aistudio/Screenshot_1_82bd809a.png)
+
+* **Monitoramento de Metas:** Barra de progresso visual que se atualiza automaticamente conforme os objetivos são concluídos.
+* **Métricas em Tempo Real:** Indicadores clicáveis de metas não iniciadas, em andamento e concluídas.
+* **Organização Descomplicada:** Filtros por status, busca por texto e ordenação inteligente por proximidade do prazo.
 
 ---
 
